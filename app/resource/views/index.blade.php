@@ -6,7 +6,7 @@
     <h1>Welcome to the Home Page</h1>
 </div>
 <div>
-    <a class="btn btn-primary" href="{{ route('products/create')}}">Create</a>
+    <a class="btn btn-primary">Create</a>
     <table class="table">
         <thead>
             <tr>
@@ -19,6 +19,7 @@
             </tr>
         </thead>
         <tbody>
+        </tbody>
     </table>
 
 </div>
