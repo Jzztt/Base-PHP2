@@ -4,8 +4,6 @@
 # Composer dependencies
 /vendor/
 
-# Application cache
-/app/storage/cache/*
 
 # IDE/editor files
 /.idea/
